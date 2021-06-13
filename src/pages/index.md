@@ -58,9 +58,8 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
-    content: >
-      #### Application Development Manager, Developer, Geek.&#xA;Generally
-      Awesome. Also into aeronautics, economics, and other -ics'.
+    content: |
+      Other content.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
