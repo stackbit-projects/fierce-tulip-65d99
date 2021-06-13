@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Casey Kriutzfield
-    image: images/5.jpg
+    image: images/foggy_1366x912.png
     content: |
       Application Development Manager, Developer, Geek.
       Generally Awesome. Also into aeronautics, economics, and other -ics'.
