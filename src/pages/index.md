@@ -8,10 +8,7 @@ sections:
     content: |
       Application Development Manager, Developer, Geek.
       Generally Awesome. Also into aeronautics, economics, and other -ics'.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
